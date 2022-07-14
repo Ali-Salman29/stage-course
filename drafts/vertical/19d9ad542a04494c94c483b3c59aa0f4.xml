@@ -1,0 +1,10 @@
+<vertical display_name="Quiz Advance" parent_url="block-v1:Arbisoft+CS200+2022+type@sequential+block@49f9e8e3cc4541cb981ff9d15c3a6076" index_in_children_list="4">
+  <problem url_name="e4b2455f931b49e9a13b72e1f5606bce"/>
+  <problem url_name="50ea662f497943b7b6028648758c1911"/>
+  <problem url_name="e5f86b45d6544dafa55e1fb57c1b64fd"/>
+  <problem url_name="7e1e165d6d9646fb9691659c313c019a"/>
+  <problem url_name="cbc1a2adb9f646ee8b7b0a89dc96ea53"/>
+  <problem url_name="937403e207af4fb5bcd744802285ff66"/>
+  <sortable url_name="4a23f2abc10646c396c6465c93547871" xblock-family="xblock.v1"/>
+  <sortable url_name="6a41994c66304e8e9da8123e598817b6" xblock-family="xblock.v1" display_name="Sorting Problem" max_attempts="1" data="[&#10;  &quot;Australia&quot;,&#10;  &quot;China&quot;,&#10;  &quot;Finland&quot;,&#10;  &quot;Pakistan&quot;,&#10;  &quot;United States&quot;&#10;]" item_background_color="#f2f2f2" item_text_color="#000000" question_text="Sort the following country names in alphabetical order" weight="1.0"/>
+</vertical>
